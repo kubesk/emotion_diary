@@ -1,4 +1,4 @@
-FROM node:16
+FROM node:18
 
 
 # 작업 디렉토리 설정
